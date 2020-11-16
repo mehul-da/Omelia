@@ -1,5 +1,5 @@
 # Omelia
-Our HackTX 2020 project - a speech to spreadsheet command productivity tool - link to devpost submission (https://devpost.com/software/omelia)
+Our HackTX 2020 project - a speech to spreadsheet command productivity tool. Link to devpost submission: https://devpost.com/software/omelia
 
 # Inspiration
 There are approximately 19.2 million that have a disability, which impacts their ability to type on a keyboard or use a mouse. These individuals have trouble using productivity tools like Google Sheets. Additionally, kids that just learning to use spreadsheet software might find it daunting to navigate around all the potential options. For these reasons, we built Omeilia to help bridge this gap. In Greek, Omelia means speaking and we felt that a lot could be done with just one's voice.
